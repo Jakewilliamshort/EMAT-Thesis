@@ -14,14 +14,6 @@ x_CPB = 1
 x_blue = 200 #Light intensity
 x_UV = 0.002
 
-# x_A = 0.1
-# x_B = 1
-# x_C = 2 #This set the max conversion fraction in the CP vs CR, kinda, x>2 and it kinda diverges 
-# x_D = 0.1
-# x_E = 1
-# x_blue = 0.1
-# x_UV = 0.1
-
 #%%
 
 'Define the initial conditions for the solver'
